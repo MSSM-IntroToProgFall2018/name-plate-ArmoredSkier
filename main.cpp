@@ -13,7 +13,7 @@ int main()
 
     if (size > 15) {
 
-        cout << "Your name is too long for this program." << endl;
+        cout << "Your name is too long. Please insert another name." << endl;
 
     }
     else {
